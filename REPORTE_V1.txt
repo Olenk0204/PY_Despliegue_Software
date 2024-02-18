@@ -1,0 +1,5 @@
+<INICIO>
+1. compilar la aplicacion
+2. Ejecutar pruebas
+3. Desplegar aplicacion en el servidor de produccion
+<FIN>
